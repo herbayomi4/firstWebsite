@@ -1,0 +1,36 @@
+.navbar{
+	border-radius:0px;
+}
+.jheader{
+	margin-bottom:0px;
+	background:silver;
+}
+.jheader h1{
+	color:white;
+	font-size:52px;
+}
+.container{
+	padding:0px;
+}
+.site-footer{
+	background:#808080;
+	color:#fff;
+	padding-top:20px;
+}
+.bottom-footer{
+	border-top:2px solid #b2b2b2;
+}
+.bottom-footer li{
+	display:inline;
+}
+.footer-nav li:not(:first-child):before{
+	content:'|';
+}
+.bottom-footer li a{
+	padding:0px 10px;
+	text-decoration:none;
+	color: #fff;
+}
+#topic{
+	color:#800000;
+}
